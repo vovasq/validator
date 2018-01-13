@@ -10,4 +10,3 @@ Send file to validation:
 
 `curl -s --data-binary @filename.json http://localhost`
 
- 
